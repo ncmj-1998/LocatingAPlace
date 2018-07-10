@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Locating A Place</string>
+
+        <string-array name="hqpos">
+            <item>Choose an area</item>
+            <item>Central</item>
+            <item>North</item>
+            <item>East</item>
+        </string-array>
+</resources>
